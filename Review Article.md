@@ -11,7 +11,7 @@ Gideon Danso(@Gideon\_0703)
 Kareem Elsayed Saad Abdell Gawad(@Kareem\_101)  
 Claudia Agyeere(@Agyeere9)
 
-## **introduction**
+## **Introduction**
 
  This research entitled "Exploring the Impact of Gut Immune System on Immunotherapy for Non Cell Lung Cancer Patients" suppose that the presence of antibiotic resistance genes within the gut immune system can influence the success of immunotherapy in individuals diagnosed with non small cell lung cancer (NSCLC). While immunotherapy targeting PD-1/PD-L is an approach for NSCLC treatment its outcomes differ among patients and some may show resistance to the treatment, over time. The research is focused on finding markers, within the gut immune system that could hinders the outcomes of immunotherapy treatments.In this research they conduct research on 30 advanced NSCLC patients, 19 (57%) men and 11 (33%) women, treated with first- or second-line immunotherapy (nivolumab,pembrolizumab or atezolizumab).  
  
